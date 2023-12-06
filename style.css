@@ -2,9 +2,14 @@
   font-family: Chivo;
   color: lightgreen;
 }
-h1{
+h1, h2 {
   font-family: Chivo;
   color: white;
+  margin: 2px;
+  padding: 0;
+}
+.name {
+  margin: 20px 0 20px 0;
 }
 .paragraph{
   font-family:Nunito;
@@ -26,7 +31,7 @@ h1{
   height: 300px;
   object-fit: cover;
   border-radius:50%;
-  margin: 25px;
+  margin-bottom: 15px;
 }
 .pic{
   text-align:center;
@@ -69,4 +74,9 @@ a:hover{
   .container {
     width: 300px;
   }
+}
+
+.follow {
+  display: flex;
+  justify-content: center;
 }
