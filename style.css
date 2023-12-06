@@ -1,11 +1,10 @@
-h2 {
+.follow {
   font-family: Chivo;
   color: lightgreen;
 }
 h1{
   font-family: Chivo;
   color: white;
-}
 }
 .paragraph{
   font-family:Nunito;
@@ -16,7 +15,7 @@ h1{
 
 }
 .background{
-  background-image: url("images/pexels-markus-spiske-1089438.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/pexels-markus-spiske-1089438.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
