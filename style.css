@@ -1,8 +1,12 @@
-h1, h2 {
+h2 {
   font-family: Chivo;
   color: lightgreen;
 }
-
+h1{
+  font-family: Chivo;
+  color: white;
+}
+}
 .paragraph{
   font-family:Nunito;
   background-color: #f9ebc88d;
