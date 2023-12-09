@@ -249,7 +249,8 @@
 }
 
 .waviy {
-  position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .waviy span {
