@@ -14,6 +14,7 @@
   display: inline-block;
   font-size: 40px;
   color: #009900;
+  text-shadow: 0 0 2px #99ff99, 0 0 5px #99ff99;
   animation: flip 5s infinite;
   animation-delay: calc(.4s * var(--i))
 }
