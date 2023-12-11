@@ -268,5 +268,8 @@
     transform: rotateY(360deg);
   }
 }
+body {
+  background-color: black;
+}
 
 /*# sourceMappingURL=style.css.map */
