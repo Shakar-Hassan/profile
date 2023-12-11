@@ -13,16 +13,16 @@
   max-width: 400px;
   max-height: 400px;
   margin: 0 auto;
-  border: 2px #fbfbfb solid;
+  border: 2px #0f0f23 solid;
   position: relative;
-  box-shadow: inset 0 0 0 20px white;
+  box-shadow: inset 0 0 0 20px #0f0f23;
   background: url(images/shk.jpg) no-repeat center;
   background-size: cover;
   transition: ease all 0.3s;
 }
 .frame:hover {
   box-shadow: inset 0 0 0 0 white;
-  border: 2px #f9f9f9 solid;
+  border: 2px #0f0f23 solid;
   cursor: pointer;
 }
 .frame:hover .text {
@@ -258,7 +258,7 @@
   position: relative;
   display: inline-block;
   font-size: 40px;
-  color: black;
+  color: #009900;
   animation: flip 5s infinite;
   animation-delay: calc(0.4s * var(--i));
 }
@@ -269,7 +269,7 @@
   }
 }
 body {
-  background-color: black;
+  background-color: #0f0f23;
 }
 
 /*# sourceMappingURL=style.css.map */
